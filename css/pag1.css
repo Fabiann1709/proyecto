@@ -13,3 +13,27 @@ body{
     margin-left: 1%;
     margin-right: 1%;
 }
+#boton1, #boton2, #boton3{
+    background-color: yellow;
+    border-radius: 20px;
+    text-align: center;
+    
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-left: 800px;
+    
+}
+#boton3:hover{
+    background-color: bisque;
+}
+#boton2:hover{
+    background-color: bisque;
+}
+#boton1:hover{
+    background-color: bisque;
+}
